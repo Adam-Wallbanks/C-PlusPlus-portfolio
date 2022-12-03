@@ -1,0 +1,259 @@
+Previous Searches:
+base_code:BRL Currency BSD":0.216
+0.216
+base_code:EUR Currency FJD":2.29
+2.29
+base_code:AFN Currency ANG":0.0204
+0.0204
+base_code:AMD Currency ANG":0.00383
+0.00383
+base_code:BWP Currency KYD":0.0705
+0.0705
+base_code:GHS Currency FJD":0.275
+0.275
+base_code:LBP Currency LKR":0.219
+0.219
+base_code:BOB Currency BRL":0.672
+0.672
+base_code:ISK Currency JMD":1.21
+1.21
+base_code:BDT Currency BGN":0.0211
+0.0211
+base_code:HRK Currency AUD":0.195
+0.195
+base_code:BDT Currency ALL":1.29
+1.29
+base_code:AOA Currency ARS":0.271
+0.271
+base_code:ALL Currency AMD":4.21
+4.21
+base_code:ISK Currency JMD":1.21
+1.21
+base_code:EGP Currency ERN":0.809
+0.809
+base_code:RSD Currency RUB":0.74
+0.74
+base_code:KRW Currency MZN":0.0524
+0.0524
+base_code:MGA Currency MKD":0.0141
+0.0141
+base_code:AMD Currency AUD":0.00287
+0.00287
+base_code:BOB Currency BRL":0.672
+0.672
+base_code:AWG Currency AZN":0.949
+0.949
+base_code:BND Currency BOB":5.05
+5.05
+base_code:AUD Currency AWG":1.32
+1.32
+base_code:LRD Currency MOP":0.053
+0.053
+base_code:CUP Currency AWG":0.0746
+0.0746
+base_code:BSD Currency AOA":414.26
+414.26
+base_code:CRC Currency AFN":0.134
+0.134
+base_code:JOD Currency JPY":180.98
+180.98
+base_code:LRD Currency CRC":4.3
+4.3
+base_code:JMD Currency JOD":0.00458
+0.00458
+base_code:AFN Currency ALL":1.27
+1.27
+base_code:BSD Currency BTN":76.14
+76.14
+base_code:BDT Currency CHF":0.0111
+0.0111
+base_code:QAR Currency RON":1.25
+1.25
+base_code:AZN Currency BAM":1.06
+1.06
+base_code:BGN Currency KHR":2242.7
+2242.7
+base_code:HTG Currency IMP":0.00709
+0.00709
+base_code:HRK Currency HTG":15.59
+15.59
+base_code:GYD Currency HKD":0.0375
+0.0375
+base_code:AUD Currency AWG":1.32
+1.32
+base_code:BRL Currency BSD":0.216
+0.216
+base_code:GIP Currency ARS":148.94
+148.94
+base_code:ARS Currency AUD":0.0118
+0.0118
+base_code:GBP Currency KYD":1.09
+1.09
+base_code:JOD Currency JPY":180.98
+180.98
+base_code:KMF Currency TJS":0.0276
+0.0276
+base_code:KGS Currency BDT":1.07
+1.07
+base_code:AUD Currency AWG":1.32
+1.32
+base_code:IDR Currency ARS":0.00821
+0.00821
+base_code:AZN Currency AWG":1.05
+1.05
+base_code:HKD Currency GYD":26.64
+26.64
+base_code:BMD Currency ERN":15
+15
+base_code:DOP Currency BBD":0.0364
+0.0364
+base_code:DZD Currency EGP":0.129
+0.129
+base_code:KZT Currency NOK":0.0198
+0.0198
+base_code:CAD Currency CZK":17.94
+17.94
+base_code:ILS Currency ERN":4.62
+4.62
+base_code:ANG Currency BHD":0.21
+0.21
+base_code:BDT Currency AFN":1.01
+1.01
+base_code:HTG Currency NAD":0.144
+0.144
+base_code:AWG Currency AZN":0.949
+0.949
+base_code:ETB Currency EUR":0.0178
+0.0178
+base_code:GBP Currency GEL":3.93
+3.93
+base_code:DZD Currency EGP":0.129
+0.129
+base_code:BHD Currency KES":307.74
+307.74
+base_code:GIP Currency GMD":69.48
+69.48
+base_code:FJD Currency FKP":0.364
+0.364
+base_code:ANG Currency AMD":261.19
+261.19
+base_code:BBD Currency BDT":42.67
+42.67
+base_code:BDT Currency AZN":0.0197
+0.0197
+base_code:BND Currency BOB":5.03
+5.03
+base_code:AFN Currency ALL":1.27
+1.27
+base_code:CVE Currency CZK":0.221
+0.221
+base_code:ARS Currency BBD":0.0175
+0.0175
+base_code:CAD Currency ETB":41.32
+41.32
+base_code:ETB Currency EUR":0.0178
+0.0178
+base_code:MAD Currency HUF":35.83
+35.83
+base_code:NGN Currency AFN":0.211
+0.211
+base_code:GYD Currency HKD":0.0375
+0.0375
+base_code:FOK Currency GBP":0.113
+0.113
+base_code:BBD Currency BDT":42.67
+42.67
+base_code:PGK Currency PHP":14.85
+14.85
+base_code:BGN Currency BHD":0.208
+0.208
+base_code:PAB Currency PEN":3.75
+3.75
+base_code:EGP Currency ERN":0.807
+0.807
+base_code:STN Currency SYP":111.93
+111.93
+base_code:MVR Currency MWK":52.81
+52.81
+base_code:BAM Currency BBD":1.08
+1.08
+base_code:BSD Currency BTN":76.49
+76.49
+base_code:CHF Currency AUD":1.45
+1.45
+base_code:MZN Currency MOP":0.127
+0.127
+base_code:AZN Currency BAM":1.1
+1.1
+base_code:LSL Currency FOK":0.444
+0.444
+base_code:ALL Currency AMD":4.07
+4.07
+base_code:BND Currency BOB":4.97
+4.97
+base_code:ALL Currency BOB":0.06
+0.06
+base_code:CHF Currency CLP":876.77
+876.77
+base_code:AFN Currency ALL":1.33
+1.33
+base_code:MWK Currency ý{"result":"success"
+"success"
+base_code:GBP Currency GEL":3.84
+3.84
+base_code:BTN Currency BND":0.0181
+0.0181
+base_code:AMD Currency MMK":4.01
+4.01
+base_code:AZN Currency BAM":1.1
+1.1
+base_code:ERN Currency CAD":0.0858
+0.0858
+base_code:BMD Currency BND":1.39
+1.39
+base_code:JPY Currency IDR":110.96
+110.96
+base_code:ANG Currency AOA":226.75
+226.75
+base_code:HUF Currency BZD":0.00553
+0.00553
+base_code:ALL Currency AOA":3.58
+3.58
+base_code:AZN Currency BAM":1.1
+1.1
+base_code:KMF Currency KRW":2.7
+2.7
+base_code:AFN Currency ALL":1.33
+1.33
+base_code:AFN Currency ALL":1.33
+1.33
+base_code:RUB Currency RWF":14.79
+14.79
+base_code:SBD Currency SCR":1.61
+1.61
+base_code:KMF Currency JPY":0.278
+0.278
+base_code:AMD Currency ARS":0.248
+0.248
+base_code:GIP Currency ISK":164.01
+164.01
+base_code:CHF Currency BYN":2.89
+2.89
+base_code:JPY Currency KZT":3.572684
+3.572684
+base_code:AFN Currency AWG":0.019955
+0.019955
+base_code:BAM Currency BBD":1.050272
+1.050272
+base_code:ANG Currency BSD":0.558659
+0.558659
+base_code:AFN Currency AOA":4.826126
+4.826126
+base_code:MAD Currency MDL":1.828084
+1.828084
+base_code:IQD Currency KGS":0.05535
+0.05535
+base_code:JMD Currency UAH":0.244825
+0.244825
+base_code:BIF Currency BOB":0.003348
+0.003348
